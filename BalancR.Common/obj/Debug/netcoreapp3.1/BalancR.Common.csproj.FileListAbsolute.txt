@@ -1,0 +1,9 @@
+C:\Users\samch\Desktop\Project\BalancR\BalancR.Common\bin\Debug\netcoreapp3.1\BalancR.Common.deps.json
+C:\Users\samch\Desktop\Project\BalancR\BalancR.Common\bin\Debug\netcoreapp3.1\BalancR.Common.dll
+C:\Users\samch\Desktop\Project\BalancR\BalancR.Common\bin\Debug\netcoreapp3.1\BalancR.Common.pdb
+C:\Users\samch\Desktop\Project\BalancR\BalancR.Common\obj\Debug\netcoreapp3.1\BalancR.Common.csproj.AssemblyReference.cache
+C:\Users\samch\Desktop\Project\BalancR\BalancR.Common\obj\Debug\netcoreapp3.1\BalancR.Common.AssemblyInfoInputs.cache
+C:\Users\samch\Desktop\Project\BalancR\BalancR.Common\obj\Debug\netcoreapp3.1\BalancR.Common.AssemblyInfo.cs
+C:\Users\samch\Desktop\Project\BalancR\BalancR.Common\obj\Debug\netcoreapp3.1\BalancR.Common.csproj.CoreCompileInputs.cache
+C:\Users\samch\Desktop\Project\BalancR\BalancR.Common\obj\Debug\netcoreapp3.1\BalancR.Common.dll
+C:\Users\samch\Desktop\Project\BalancR\BalancR.Common\obj\Debug\netcoreapp3.1\BalancR.Common.pdb
